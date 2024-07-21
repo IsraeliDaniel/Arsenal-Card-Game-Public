@@ -1,6 +1,7 @@
 # ARSENAL CARD GAME RULEBOOK (INCOMPLETE)
 
 ## Available Cards:
+```
 [+] Gun Cards
 [+] Character Cards
 [+] Map cards? (Not available to players)
@@ -8,6 +9,7 @@
    [+] Character Blockers (AOE)
    [+] Character Boosters (AOE)
    [+] Affinity Blockers (AOE) (Not sure yet)
+```
 
 ## Goal:
 Rotate through the entire gun card stack and reach the golden Knife.
