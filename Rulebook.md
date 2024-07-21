@@ -5,7 +5,7 @@ The game starts with the phirst phase which is the...
 
 > **Setting phase**:
 >
-> First the maps are chosen randomly, then all the players place 1 Character card on each map and recieve the first gun from the rotation.
+> First the maps are chosen randomly, then all the players place 1 Character card on each map and recieve the first gun from the rotation and (n) effect cards.
 
 The game will switch between two stages starting with:
 
@@ -94,6 +94,13 @@ Each character has an agility stat that ranges belongs to one of these levels:
 > Torpid
 
 So, after the players made all the operations of the turn it will play out from the fastest character to the slowest (after taking effects into account), for matching agility levels the characters of the player that went first will play first.
+
+## Character Card Perish
+When a Character Card perishes it will stay dead for a turn and be back in play after that, being able to play the 2nd turn after.
+
+Alternatively, a player may switch the character card that perished to another character card. That will also take a turn to take effect resulting in the same time delay.
+
+
 
 
 ¹ playing an effect card is not mandatory. Also keep in mind that effect cards run out on their own.
