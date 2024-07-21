@@ -80,11 +80,6 @@ to perform one of these actions:
 > **Move**:
 > The character can move to another map, switching with the character on that map. The character that initiated the move may not perform any other action but the played it switches with is allowed to play normally.
 
-
-¹ playing an effect card is not mandatory. Also keep in mind that effect cards run out on their own.
-
-² may be subject to change.
-
 ### Order of Play
 Each character has an agility stat that ranges belongs to one of these levels:
 
@@ -99,3 +94,8 @@ Each character has an agility stat that ranges belongs to one of these levels:
 > Torpid
 
 So, after the players made all the operations of the turn it will play out from the fastest character to the slowest (after taking effects into account), for matching agility levels the characters of the player that went first will play first.
+
+
+¹ playing an effect card is not mandatory. Also keep in mind that effect cards run out on their own.
+
+² may be subject to change.
